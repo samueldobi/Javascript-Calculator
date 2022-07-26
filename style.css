@@ -16,7 +16,7 @@ body{
     width: 100%;
 }
 .main-content >div {
-    /* padding: 5px; */
+    padding: 5px;
     font-size: 1.5rem;
     font-weight: bold;
     width: initial;
@@ -34,7 +34,7 @@ body{
     font-size: 2rem;
 }
 #screen-display{
-    width: 100%;
+    width: initial;
     background-color: #0C0058;
     height: 50px;
     margin: -10px;
