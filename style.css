@@ -34,7 +34,7 @@ body{
     font-size: 2rem;
 }
 #screen-display{
-    width: initial;
+    /* width: initial; */
     background-color: #0C0058;
     height: 50px;
     margin: -10px;
